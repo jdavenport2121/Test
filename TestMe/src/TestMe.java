@@ -1,12 +1,12 @@
 public class TestMe
 {
    /**
-    * @param args
+    * @param args command line arguments.
     */
    public static void main(String[] args)
    {
-      // TODO Auto-generated method stub
-      System.out.println("Yo, what up?");
+      // Isn't this a great test
+      System.out.println("Yo, what is up?");
    }
 
 }
